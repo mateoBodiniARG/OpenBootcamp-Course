@@ -1,0 +1,17 @@
+{
+  "name": "hola-mundo",
+  "version": "1.0.0",
+  "description": "This is my first project Javascript with Node ",
+  "main": "index.js",
+  "scripts": {
+    "OpenBootcamp":"node OpenBootcamp.js" ,
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "holamundo",
+    "firstproject"
+  ],
+  "author": "Marvo",
+  "license": "ISC"
+}

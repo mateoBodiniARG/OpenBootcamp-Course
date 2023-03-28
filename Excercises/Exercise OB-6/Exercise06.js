@@ -36,6 +36,11 @@ console.log(titulos)
 
 // - Una nueva lista que concatene la lista de directores y la lista de los títulos (utilizando el factor de propagación) ✔
 const directoresTitulos = directoresPeliculas.concat(titulos)
+//tambien puede ser
+const directoresTitulosV2 = [...titulos,...directoresPeliculas]
+
+//ambos devuelven el mismo resultado
 console.log(directoresTitulos)
+console.log(directoresTitulosV2)
 
-
+  

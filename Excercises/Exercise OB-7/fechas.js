@@ -14,7 +14,7 @@ const masGrande = fecha > fechaNac
 console.log(fechaNac.getDate())
 
 // - Una variable que contenga el mes de tu nacimiento (recuerda que Enero es mes 0)
-console.log(fechaNac.getMonth())
+console.log(fechaNac.getMonth()) + 1
 
 
 // - Una variable que contenga el año de tu nacimiento (con 4 dígitos)

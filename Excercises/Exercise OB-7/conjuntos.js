@@ -5,7 +5,7 @@ console.log(nombres)
 
 
 // - Modifica el Set original añadiendo tu nombre (duplicado) (debería darte lo mismo)
-// hago un .add a nombres para duplicar un integrante
+// Hago un .add a nombres para agregar un integrante duplicado
 nombres.add("Mateo")
 console.log(nombres)
 

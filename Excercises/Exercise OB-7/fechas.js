@@ -19,7 +19,11 @@ const mesNac = fechaNac.getMonth() + 1
 
 
 // - Una variable que contenga el año de tu nacimiento (con 4 dígitos)
+<<<<<<< HEAD
 // <<<<<<< HEAD
 const yearNac = fechaNac.getFullYear()  
 // =======
 // >>>>>>> 1ae68f7 (Exercise 7 3/3 solved)
+=======
+const yearNac = fechaNac.getFullYear()  
+>>>>>>> e941b42 (Module 7 finish)

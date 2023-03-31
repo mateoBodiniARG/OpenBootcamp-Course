@@ -9,15 +9,16 @@ function* generaId() {
     }
 }
 
-const gen = generaId()
-console.log(gen.next().value)
-console.log(gen.next().value)
-console.log(gen.next().value)
-console.log(gen.next().value)
-console.log(gen.next().value)
-console.log(gen.next().value)
-console.log(gen.next().value)
-console.log(gen.next().value)
-console.log(gen.next().value)
-console.log(gen.next().value)
-console.log(gen.next().value)
+const gen = generaId();
+
+console.log(gen.next().value) //1
+console.log(gen.next().value) //2 
+console.log(gen.next().value) //3
+console.log(gen.next().value) //4
+console.log(gen.next().value) //5
+console.log(gen.next().value) //6
+console.log(gen.next().value) //7
+console.log(gen.next().value) //8
+console.log(gen.next().value) //9
+console.log(gen.next().value) //10
+console.log(gen.next().value) // false

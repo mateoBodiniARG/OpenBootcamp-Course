@@ -1,0 +1,15 @@
+{"level":"info","message":"Hola soy un mensaje informativo","service":"user-service"}
+{"level":"warn","message":"Hola soy un mensaje de advertencia","service":"user-service"}
+{"level":"error","message":"Esto es un mensaje de ERROR","service":"user-service"}
+{"level":"info","message":"Hola soy un mensaje informativo","service":"user-service"}
+{"level":"debug","message":"Esto es un mensaje de debug","service":"user-service"}
+{"level":"warn","message":"Hola soy un mensaje de advertencia","service":"user-service"}
+{"level":"error","message":"Esto es un mensaje de ERROR","service":"user-service"}
+{"level":"info","message":"Hola soy un mensaje informativo"}
+{"level":"debug","message":"Esto es un mensaje de debug"}
+{"level":"warn","message":"Hola soy un mensaje de advertencia"}
+{"level":"error","message":"Esto es un mensaje de ERROR"}
+{"level":"info","message":"Hola soy un mensaje informativo"}
+{"level":"debug","message":"Esto es un mensaje de debug"}
+{"level":"warn","message":"Hola soy un mensaje de advertencia"}
+{"level":"error","message":"Esto es un mensaje de ERROR"}

@@ -1,0 +1,6 @@
+const logger = require('./logger')
+// logger.log("Hola estoy saliendo por pantalla")
+logger.info("Hola soy un mensaje informativo")
+logger.debug("Esto es un mensaje de debug")
+logger.warn("Hola soy un mensaje de advertencia")
+logger.error("Esto es un mensaje de ERROR")

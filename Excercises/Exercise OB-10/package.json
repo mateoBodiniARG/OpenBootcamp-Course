@@ -1,0 +1,16 @@
+{
+  "name": "exercise-ob-10",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Exercise-10.js",
+  "type": "module",
+  "scripts": {
+    "start": "index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.2.0"
+  }
+}

@@ -50,6 +50,3 @@ console.log(edad)
 //Setter -> Metodos que nos permiten cambiar el valor de algunos de los atributos privados o protegidos 
 persona.setEdad(23)
 console.log(persona.getEdad())
-
-
-
